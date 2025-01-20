@@ -320,3 +320,4 @@ RELEASE_MSG
 /Makefile
 /.ignore
 /Plugins/uegitplugin
+/Plugins/Marketplace/CesiumForUnreal
